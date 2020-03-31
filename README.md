@@ -1,1 +1,2 @@
-Traffic Sign Recognition
+**The HTML Preview and Results of project are hosted on Github**
+Visit the link for Results - [Preview and Results](https://htmlpreview.github.io/?https://github.com/q4pradeep/TrafficSignICV/blob/master/preview.html)
